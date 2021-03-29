@@ -7,3 +7,6 @@ This is my first Github learning!.
       printf("Hello World!");
       return 0;
     }
+    
+ **Commit -> Change/Edit the repository**
+  *I'm learning OOP Programming by using Java as a tool, It'll make me crazy!
