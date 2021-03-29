@@ -8,5 +8,5 @@ This is my first Github learning!.
       return 0;
     }
     
- **Commit -> Change/Edit the repository**
+ **Commit -> Save change/edit the repository**
   *I'm learning OOP Programming by using Java as a tool, It'll make me crazy!
